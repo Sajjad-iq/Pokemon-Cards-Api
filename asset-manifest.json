@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokemon-Cards-Api/static/css/main.517dca2c.css",
+    "main.js": "/Pokemon-Cards-Api/static/js/main.58c2caab.js",
+    "index.html": "/Pokemon-Cards-Api/index.html",
+    "main.517dca2c.css.map": "/Pokemon-Cards-Api/static/css/main.517dca2c.css.map",
+    "main.58c2caab.js.map": "/Pokemon-Cards-Api/static/js/main.58c2caab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517dca2c.css",
+    "static/js/main.58c2caab.js"
+  ]
+}
